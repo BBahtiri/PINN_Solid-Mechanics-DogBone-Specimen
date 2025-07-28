@@ -10,7 +10,7 @@ The core of this work is a PINN that directly solves the strong form of the equi
 
 <br>
 
-![PINN Architecture](/pinn.png)
+![PINN Architecture](/PINN_Overview.png)
 *Figure 1: The architecture of the Physics-Informed Neural Network.*
 
 ---
